@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "5f12e7404e044c341088daaf"
+  },
+  "name": "Asif",
+  "Age": 24,
+  "Designation": "developer",
+  "salary": 50000
+},{
+  "_id": {
+    "$oid": "5f12e9a24e044c341088dab0"
+  },
+  "name": "Rizwan",
+  "Age": 24,
+  "Designation": "manager",
+  "salary": 1000000
+},{
+  "_id": {
+    "$oid": "5f12eaa04e044c341088dab1"
+  },
+  "name": "John",
+  "Age": 24,
+  "Designation": "developer",
+  "salary": 8000
+},{
+  "_id": {
+    "$oid": "5f12eaa04e044c341088dab2"
+  },
+  "name": "Rambo",
+  "Age": 35,
+  "Designation": "manager",
+  "salary": 100000
+},{
+  "_id": {
+    "$oid": "5f12eaa04e044c341088dab3"
+  },
+  "name": "George",
+  "Age": 28,
+  "Designation": "developer",
+  "salary": 40000
+},{
+  "_id": {
+    "$oid": "5f12eaa04e044c341088dab4"
+  },
+  "name": "Alex",
+  "Age": 24,
+  "Designation": "developer",
+  "salary": 35000
+}]
